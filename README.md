@@ -34,8 +34,8 @@ The following **additional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
     * [x] Movies are sorted by rating from high to low.
-    * [x] Rating is showing below overview.
-    * [x] User can click a movie item and a dialog pops up to allow user to choose one of following two: Details or Trailer.
+    * [x] Rating is displayed below overview.
+    * [x] User can click a movie item and a dialog pops up to allow user to choose one of following: Details or Trailer.
     * [x] If the user picks Details, then it starts Details Activity which shows more about the movie.
     * [ ] Trailer Activity (not working yet).
     * [x] Java code is organized into main, models, data, and adapters.
